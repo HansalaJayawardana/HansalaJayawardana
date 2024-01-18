@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **University Undergraduate**
 
-- 🌱 I’m currently learning **C#,Python**
+- 🌱 I’m currently learning **C#,Flutter,Dart,Java**
 
 - 📫 How to reach me **hansalajayawardana17@gmail.com**
 
